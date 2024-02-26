@@ -5,3 +5,4 @@ This project focuses on creating an end-to-end data engineering pipeline for ext
 
 
 ![alt text](https://github.com/pranjals26/Spotify-API-Data-Pipeline-/blob/main/Spotify_data_analysis.jpg)
+
